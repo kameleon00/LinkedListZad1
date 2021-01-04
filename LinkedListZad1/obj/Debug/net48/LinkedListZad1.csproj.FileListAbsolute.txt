@@ -1,0 +1,9 @@
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.csprojAssemblyReference.cache
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.AssemblyInfo.cs
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/bin/Debug/net48/LinkedListZad1.exe.config
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/bin/Debug/net48/LinkedListZad1.exe
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/bin/Debug/net48/LinkedListZad1.pdb
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.exe
+/home/kameleon/Desktop/LinkedListZad1/LinkedListZad1/obj/Debug/net48/LinkedListZad1.pdb
